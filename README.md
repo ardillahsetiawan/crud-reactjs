@@ -1,1 +1,1 @@
-this is just a simple crud using reactjs
+just a simple crud using reactjs
